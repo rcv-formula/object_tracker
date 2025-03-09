@@ -1,0 +1,3 @@
+path: /detect_ws/src/coordinate/path/updated_wide_factory2.5.csv
+map_yaml: /detect_ws/src/coordinate/map/updated_wide_factory.yaml
+map_pgm: /detect_ws/src/coordinate/map/updated_wide_factory.pgm
