@@ -20,7 +20,7 @@ cd cordinate
 source install/setup.bash  
 ros2 run cordinate cordinate_converter  
 
-### object detector & tracker 실행  
+### object tracker 실행  
 cd object_tracker
 source install/setup.bash  
 ros2 launch object_tracker object_track_launch.py  
